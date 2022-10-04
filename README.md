@@ -30,24 +30,23 @@
 ```json
 {
     "name": "Jaivrat Das",
-    "age": "20",
+    "installed_on": "12-Dec-2001",
     "location": "Madhya Pradesh, India",
     "roles": [
         {
             "role": "student",
             "institute": "Acropolis Institute of Technology & Research",
             "course": "Integrated Master of Computer Application",
-            "duration": "5 years",
-            "year": "4th"
+            "duration": "5 Years (2019-2024)"
         },
         {
             "role": "intern",
             "company": "Basketo Finance (https://basketo.finance)",
             "position": "Full-Stack and WEB3 Development Intern",
-            "duration": "6 months"
+            "duration": "6 Months (Jun-Nov, 2022)"
         }
     ],
-    "updated_at": "June 24, 2022"
+    "updated_at": "04-Oct-2022"
 }
 ```
 

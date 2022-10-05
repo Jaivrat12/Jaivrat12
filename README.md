@@ -182,7 +182,7 @@
 <details>
     <summary>💹 GitHub Stats</summary>
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Jaivrat12&column=3&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&theme=onestar" alt="My Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Jaivrat12&column=4&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&theme=onestar" alt="My Trophies" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaivrat12&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Most used languages" width="370" />
     </p>
     <p align="center">

@@ -3,7 +3,11 @@
         <img src="images/grim-repo.png" class="profile-pic" width="100" title="I got this as a sticker in HacktoberFest2021 swags 🤩" />
     </a>
 </p>
-
+<div style="display: flex; gap: 1rem">
+<div>1</div>
+<div>2</div>
+<div>3</div>
+</div>
 <h2 align="center">
     <img src="images/hi.gif" width ="25"/>
     Heyooo!!! I'm Jaivrat

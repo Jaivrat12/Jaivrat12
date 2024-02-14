@@ -2,24 +2,28 @@
     <a href="https://octodex.github.com/images/grim-repo.jpg" target="_blank">
         <img src="images/grim-repo.png" class="profile-pic" width="100" title="I got this as a sticker in HacktoberFest2021 swags 🤩" />
     </a>
+    <br />
+    <a href="https://jaivratdas.in/">
+        🌐 <b><i>jaivratdas.in</i></b>
+    </a>
 </p>
 
 <h2 align="center">
     <img src="images/hi.gif" width ="25"/>
-    Heyooo!!! I'm Jaivrat
+    Hello! I'm Jaivrat Das
     <img src="images/sunglasses.gif" width="25" />
 </h2>
 
 <p align="center">
     <img alt="Student Computer Science" src="https://img.shields.io/badge/Computer%20Science-FFAF00?&style=for-the-badge&label=Student&labelColor=F56040&logo=bookstack&logoColor=white" />
     <img alt="Full Stack Developer" src="https://img.shields.io/badge/Full--Stack-FF007F?&style=for-the-badge&label=Developer&labelColor=E0115F&logo=javascript&logoColor=white" />
-    <a href="https://basketo.finance" target="_blank">
+    <!-- <a href="https://basketo.finance" target="_blank">
         <img alt="WEB3 Intern @Basketo" src="https://img.shields.io/badge/%40Basketo-7F2FFF?&style=for-the-badge&label=WEB3%20Intern&labelColor=5D3FD3&logo=web3.js&logoColor=white" />
-    </a>
+    </a> -->
 </p>
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Jaivrat12&label=ProfileViews&color=22CCAA&style=flat-square" alt="Jaivrat12" align="right" />
+    <img src="https://komarev.com/ghpvc/?username=Jaivrat12&label=Profile Views&color=22CCAA&style=flat-square" alt="Profile Views" align="right" />
 </p>
 <br />
 
@@ -31,35 +35,39 @@
 {
     "name": "Jaivrat Das",
     "installed_on": "12-Dec-2001",
-    "location": "Madhya Pradesh, India",
-    "roles": [
+    "location": "Indore, Madhya Pradesh, India",
+    "education": {
+        "institute": "Acropolis Institute of Technology & Research",
+        "course": "Integrated Masters in Computer Application",
+        "duration": "5 Years (2019-2024)"
+    },
+    "carrer": [
         {
-            "role": "student",
-            "institute": "Acropolis Institute of Technology & Research",
-            "course": "Integrated Master of Computer Application",
-            "duration": "5 Years (2019-2024)"
+            "company": "A Logistics Company (USA)",
+            "role": "Freelancer",
+            "position": "Full-Stack Developer",
+            "duration": "10 Months (Apr 2023 - Jan 2024)"
         },
         {
-            "role": "intern",
-            "company": "Basketo Finance (https://basketo.finance)",
+            "company": "Basketo Finance",
+            "role": "Intern",
             "position": "Full-Stack and WEB3 Development Intern",
-            "duration": "6 Months (Jun-Nov, 2022)"
+            "duration": "6 Months (Jun 2022 - Nov 2022)"
         }
     ],
-    "updated_at": "04-Oct-2022"
+    "total_experience": "1+ YoE",
+    "updated_at": "14-Feb-2024"
 }
 ```
 
-- 👨‍💻 I'm a self-taught developer (mostly), and I love programming & problem solving
-- 🤩 Some of my favorite things are: Sports (Football💜), Music, Anime
-- 👨‍🏭 I'm currently working on some portfolio websites and mostly learning about stuffs
-- 🧐 Currently learning:
+- 👨‍💻 I'm a collaborative & passionate Full-Stack Developer specializing in MERN Stack.
+- 🤩 Some of my favorite things are: Problem Solving, Sports (Football💜), Music, Anime
+- 👨‍🏭 I'm currently working on various projects like [My Portfolio](https://jaivratdas.in/), [Family Tree Maker](https://clannad.jaivratdas.in/)
+- 🧐 Currently learning/improving on:
 
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img alt="Blockchain and Defi" src="https://img.shields.io/badge/-Blockchain%20and%20Defi-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
-    <img alt="DSA in C++" src="https://img.shields.io/badge/-DSA%20in%20C%2B%2B-DD6620?style=for-the-badge&logo=coding-ninjas&logoColor=white" />
-    <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-    <img alt="Cryptos" src="https://img.shields.io/badge/-Cryptos-F7931A?style=for-the-badge&logo=bitcoin-cash&logoColor=white" />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br />
 
@@ -69,8 +77,66 @@
     <tr>
         <th valign="center" width="33%">
             <div align="center">
+                <a href="https://clannad.jaivratdas.in/" target="_blank">
+                    <img src="images/clannad.gif" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://jaivratdas.in/" target="_blank">
+                    <img src="images/portfolio.png" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
                 <a href="https://weather-app-elite.vercel.app/" target="_blank">
                     <img src="images/weather-app.png" border="2" />
+                </a>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://clannad.jaivratdas.in/" target="_blank">
+                    <b>Family Tree Maker (Next.js + MERN)</b>
+                </a>
+                <br />
+                <a href="https://github.com/Jaivrat12/clannad-family-tree" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://jaivratdas.in/" target="_blank">
+                    <b>My Portfolio Website (Next.js)</b>
+                </a>
+                <br />
+                <a href="https://github.com/Jaivrat12/jaivrat-das" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://weather-app-elite.vercel.app/" target="_blank">
+                    <b>Weather App (React.js)</b>
+                </a>
+                <br />
+                <a href="https://github.com/Jaivrat12/weather-app" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://github-clone.jaivratdas.in/" target="_blank">
+                    <img src="images/github-clone.png" border="2" />
                 </a>
             </div>
         </th>
@@ -92,11 +158,11 @@
     <tr>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://weather-app-elite.vercel.app/" target="_blank">
-                    <b>Weather App (React.js)</b>
+                <a href="https://github-clone.jaivratdas.in/" target="_blank">
+                    <b>GitHub Clone (Vanilla JS)</b>
                 </a>
                 <br />
-                <a href="https://github.com/Jaivrat12/weather-app" target="_blank">
+                <a href="https://github.com/Jaivrat12/github-clone" target="_blank">
                     View Repo
                 </a>
             </div>
@@ -131,51 +197,42 @@
 <h2 align="center">🚀 Technologies and Tools 🛠️</h2>
 <br />
 <p align="center">
-    <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="EJS" src="https://img.shields.io/badge/-EJS-FF5500?style=flat-square&logo=embedded-javascript&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Create React App" src="https://img.shields.io/badge/-Create%20React%20App-09D3AC?style=flat-square&logo=createreactapp&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black">
-    <img alt="Unity" src="https://img.shields.io/badge/-Unity-ffffff?style=flat-square&logo=unity&logoColor=black">
-    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-88BBDC?style=flat-square&logo=c-in-hexagon&logoColor=white" />
-    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-58C7FF?style=flat-square&logo=webpack&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-21BAFF?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078DA?style=flat-square&logo=visual-studio-code&logoColor=white">
-    <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572DD?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+    <b>Languages</b>
+    <br />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-025E8C?style=flat-square&logo=mysql&logoColor=white">
-    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-0059AC?style=flat-square&logo=cpp2&logoColor=white" />
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-380078?style=flat-square&logo=cs2&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="VB.NET" src="https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-    <img alt="JSON" src="https://img.shields.io/badge/-JSON-FE2A55?style=flat-square&logo=json&logoColor=white">
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
-    <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572DD?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <br />
+    <br />
+    <b>Frameworks/Libraries/DBs</b>
+    <br />
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/-React-21BAFF?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+    <br />
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
+    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+    <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white">
+    <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-007FFF?style=flat-square&logo=mui&logoColor=white">
+    <br />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-025E8C?style=flat-square&logo=mysql&logoColor=white">
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    <br />
+    <br />
+    <b>Others</b>
+    <br />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+    <br />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078DA?style=flat-square&logo=visual-studio-code&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 <br />
 
@@ -203,26 +260,20 @@
 <br />
 
 <p align="right">
+    <a href="https://jaivratdas.in/" target="_blank">
+        <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio Website-5D3FD3?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpza2V0Y2g9Imh0dHA6Ly93d3cuYm9oZW1pYW5jb2RpbmcuY29tL3NrZXRjaC9ucyIgZmlsbD0iIzAwMDAwMCI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDx0aXRsZT5nbG9iZTwvdGl0bGU+IDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2ggQmV0YS48L2Rlc2M+IDxkZWZzPiA8L2RlZnM+IDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHNrZXRjaDp0eXBlPSJNU1BhZ2UiPiA8ZyBpZD0iSWNvbi1TZXQiIHNrZXRjaDp0eXBlPSJNU0xheWVyR3JvdXAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMDQuMDAwMDAwLCAtNjcxLjAwMDAwMCkiIGZpbGw9IiNmZmZmZmYiPiA8cGF0aCBkPSJNMjMxLjU5Niw2OTQuODI5IEMyMjkuNjgxLDY5NC4xOTIgMjI3LjYyMiw2OTMuNzE2IDIyNS40NTUsNjkzLjQwOCBDMjI1Ljc1LDY5MS42NzUgMjI1LjkwNyw2ODkuODU5IDIyNS45NTcsNjg4IEwyMzMuOTYyLDY4OCBDMjMzLjc4Myw2OTAuNTIxIDIzMi45MzYsNjkyLjg1NCAyMzEuNTk2LDY5NC44MjkgTDIzMS41OTYsNjk0LjgyOSBaIE0yMjMuNDM0LDcwMC41NTkgQzIyNC4xLDY5OC45NSAyMjQuNjQ1LDY5Ny4yMTEgMjI1LjA2NCw2OTUuMzc5IEMyMjYuODYyLDY5NS42NDUgMjI4LjU4Niw2OTYuMDM4IDIzMC4yMTksNjk2LjU1NCBDMjI4LjQxNSw2OTguNDc3IDIyNi4wNzMsNjk5Ljg5MiAyMjMuNDM0LDcwMC41NTkgTDIyMy40MzQsNzAwLjU1OSBaIE0yMjAuOTcxLDcwMC45NTEgQzIyMC42NDksNzAwLjk3NCAyMjAuMzI4LDcwMSAyMjAsNzAxIEMyMTkuNjcyLDcwMSAyMTkuMzUyLDcwMC45NzQgMjE5LjAyOSw3MDAuOTUxIEMyMTguMTc4LDY5OS4xNzkgMjE3LjQ4OSw2OTcuMjA3IDIxNi45NzksNjk1LjExNCBDMjE3Ljk3Myw2OTUuMDI3IDIxOC45OCw2OTQuOTc2IDIyMCw2OTQuOTc2IEMyMjEuMDIsNjk0Ljk3NiAyMjIuMDI3LDY5NS4wMjcgMjIzLjAyMiw2OTUuMTE0IEMyMjIuNTExLDY5Ny4yMDcgMjIxLjgyMiw2OTkuMTc5IDIyMC45NzEsNzAwLjk1MSBMMjIwLjk3MSw3MDAuOTUxIFogTTIwOS43ODEsNjk2LjU1NCBDMjExLjQxNCw2OTYuMDM4IDIxMy4xMzgsNjk1LjY0NSAyMTQuOTM2LDY5NS4zNzkgQzIxNS4zNTUsNjk3LjIxMSAyMTUuOSw2OTguOTUgMjE2LjU2Niw3MDAuNTU5IEMyMTMuOTI3LDY5OS44OTIgMjExLjU4Niw2OTguNDc3IDIwOS43ODEsNjk2LjU1NCBMMjA5Ljc4MSw2OTYuNTU0IFogTTIwOC40MDQsNjk0LjgyOSBDMjA3LjA2NCw2OTIuODU0IDIwNi4yMTcsNjkwLjUyMSAyMDYuMDM4LDY4OCBMMjE0LjA0Myw2ODggQzIxNC4wOTMsNjg5Ljg1OSAyMTQuMjUsNjkxLjY3NSAyMTQuNTQ1LDY5My40MDggQzIxMi4zNzgsNjkzLjcxNiAyMTAuMzE5LDY5NC4xOTIgMjA4LjQwNCw2OTQuODI5IEwyMDguNDA0LDY5NC44MjkgWiBNMjA4LjQwNCw2NzkuMTcxIEMyMTAuMzE5LDY3OS44MDggMjEyLjM3OCw2ODAuMjg1IDIxNC41NDUsNjgwLjU5MiBDMjE0LjI1LDY4Mi4zMjUgMjE0LjA5Myw2ODQuMTQxIDIxNC4wNDMsNjg2IEwyMDYuMDM4LDY4NiBDMjA2LjIxNyw2ODMuNDc5IDIwNy4wNjQsNjgxLjE0NiAyMDguNDA0LDY3OS4xNzEgTDIwOC40MDQsNjc5LjE3MSBaIE0yMTYuNTY2LDY3My40NDEgQzIxNS45LDY3NS4wNSAyMTUuMzU1LDY3Ni43ODkgMjE0LjkzNiw2NzguNjIxIEMyMTMuMTM4LDY3OC4zNTYgMjExLjQxNCw2NzcuOTYyIDIwOS43ODEsNjc3LjQ0NiBDMjExLjU4Niw2NzUuNTIzIDIxMy45MjcsNjc0LjEwOCAyMTYuNTY2LDY3My40NDEgTDIxNi41NjYsNjczLjQ0MSBaIE0yMTkuMDI5LDY3My4wNDkgQzIxOS4zNTIsNjczLjAyNyAyMTkuNjcyLDY3MyAyMjAsNjczIEMyMjAuMzI4LDY3MyAyMjAuNjQ5LDY3My4wMjcgMjIwLjk3MSw2NzMuMDQ5IEMyMjEuODIyLDY3NC44MjEgMjIyLjUxMSw2NzYuNzk0IDIyMy4wMjIsNjc4Ljg4NiBDMjIyLjAyNyw2NzguOTczIDIyMS4wMiw2NzkuMDI0IDIyMCw2NzkuMDI0IEMyMTguOTgsNjc5LjAyNCAyMTcuOTczLDY3OC45NzMgMjE2Ljk3OSw2NzguODg2IEMyMTcuNDg5LDY3Ni43OTQgMjE4LjE3OCw2NzQuODIxIDIxOS4wMjksNjczLjA0OSBMMjE5LjAyOSw2NzMuMDQ5IFogTTIyMy45NTQsNjg4IEMyMjMuOSw2ODkuNzYxIDIyMy43NCw2OTEuNDkzIDIyMy40MzksNjkzLjE1NiBDMjIyLjMxMyw2OTMuMDU4IDIyMS4xNjgsNjkzIDIyMCw2OTMgQzIxOC44MzIsNjkzIDIxNy42ODcsNjkzLjA1OCAyMTYuNTYyLDY5My4xNTYgQzIxNi4yNiw2OTEuNDkzIDIxNi4xLDY4OS43NjEgMjE2LjA0Nyw2ODggTDIyMy45NTQsNjg4IEwyMjMuOTU0LDY4OCBaIE0yMTYuMDQ3LDY4NiBDMjE2LjEsNjg0LjIzOSAyMTYuMjYsNjgyLjUwNyAyMTYuNTYyLDY4MC44NDQgQzIxNy42ODcsNjgwLjk0MiAyMTguODMyLDY4MSAyMjAsNjgxIEMyMjEuMTY4LDY4MSAyMjIuMzEzLDY4MC45NDIgMjIzLjQzOCw2ODAuODQ0IEMyMjMuNzQsNjgyLjUwNyAyMjMuOSw2ODQuMjM5IDIyMy45NTQsNjg2IEwyMTYuMDQ3LDY4NiBMMjE2LjA0Nyw2ODYgWiBNMjMwLjIxOSw2NzcuNDQ2IEMyMjguNTg2LDY3Ny45NjIgMjI2Ljg2Miw2NzguMzU2IDIyNS4wNjQsNjc4LjYyMSBDMjI0LjY0NSw2NzYuNzg5IDIyNC4xLDY3NS4wNSAyMjMuNDM0LDY3My40NDEgQzIyNi4wNzMsNjc0LjEwOCAyMjguNDE1LDY3NS41MjMgMjMwLjIxOSw2NzcuNDQ2IEwyMzAuMjE5LDY3Ny40NDYgWiBNMjMxLjU5Niw2NzkuMTcxIEMyMzIuOTM2LDY4MS4xNDYgMjMzLjc4Myw2ODMuNDc5IDIzMy45NjIsNjg2IEwyMjUuOTU3LDY4NiBDMjI1LjkwNyw2ODQuMTQxIDIyNS43NSw2ODIuMzI1IDIyNS40NTUsNjgwLjU5MiBDMjI3LjYyMiw2ODAuMjg1IDIyOS42ODEsNjc5LjgwOCAyMzEuNTk2LDY3OS4xNzEgTDIzMS41OTYsNjc5LjE3MSBaIE0yMjAsNjcxIEMyMTEuMTY0LDY3MSAyMDQsNjc4LjE2MyAyMDQsNjg3IEMyMDQsNjk1LjgzNyAyMTEuMTY0LDcwMyAyMjAsNzAzIEMyMjguODM2LDcwMyAyMzYsNjk1LjgzNyAyMzYsNjg3IEMyMzYsNjc4LjE2MyAyMjguODM2LDY3MSAyMjAsNjcxIEwyMjAsNjcxIFoiIGlkPSJnbG9iZSIgc2tldGNoOnR5cGU9Ik1TU2hhcGVHcm91cCI+IDwvcGF0aD4gPC9nPiA8L2c+IDwvZz4KDTwvc3ZnPg==&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/jaivrat12/" target="_blank">
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+    </a>
     <a href="https://www.codechef.com/users/jaivrat1" target="_blank">
         <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCte2wZPAzIUA4odJ5Mg_OyA" target="_blank">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/jaivratdas/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <!-- <a href="https://www.reddit.com/user/Most_Detective_7136" target="_blank">
-        <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-    </a> -->
-    <!-- <a href="https://replit.com/@JaivratDas" target="_blank">
-        <img alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-    </a> -->
     <a href="https://www.sololearn.com/profile/12363610" target="_blank">
         <img alt="Sololearn" src="https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" />
-    </a>
-    <a href="https://play.unity.com/u/jaivrat1" target="_blank">
-        <img alt="Unity Play" src="https://img.shields.io/badge/Unity%20Play-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
     </a>
 </p>
 

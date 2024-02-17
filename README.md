@@ -85,13 +85,6 @@
                 </a>
             </div>
         </th>
-        <th valign="center" width="33%">
-            <div align="center">
-                <a href="https://weather-app-elite.vercel.app/" target="_blank">
-                    <img src="images/weather-app.png" border="2" />
-                </a>
-            </div>
-        </th>
     </tr>
     <tr>
         <td valign="top" width="33%">
@@ -116,6 +109,24 @@
                 </a>
             </div>
         </td>
+    </tr>
+    <tr>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://weather-app-elite.vercel.app/" target="_blank">
+                    <img src="images/weather-app.png" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://github-clone.jaivratdas.in/" target="_blank">
+                    <img src="images/github-clone.png" border="2" />
+                </a>
+            </div>
+        </th>
+    </tr>
+    <tr>
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://weather-app-elite.vercel.app/" target="_blank">
@@ -127,31 +138,6 @@
                 </a>
             </div>
         </td>
-    </tr>
-    <tr>
-        <th valign="center" width="33%">
-            <div align="center">
-                <a href="https://github-clone.jaivratdas.in/" target="_blank">
-                    <img src="images/github-clone.png" border="2" />
-                </a>
-            </div>
-        </th>
-        <th valign="center" width="33%">
-            <div align="center">
-                <a href="https://play.unity.com/mg/other/explosion-magic" target="_blank">
-                    <img src="images/explosion-magic.png" border="2" />
-                </a>
-            </div>
-        </th>
-        <th valign="center" width="33%">
-            <div align="center">
-                <a href="https://jaivrat12.github.io/misc-features-webpage/" target="_blank">
-                    <img src="images/misc-features.png" border="2" />
-                </a>
-            </div>
-        </th>
-    </tr>
-    <tr>
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://github-clone.jaivratdas.in/" target="_blank">
@@ -163,6 +149,22 @@
                 </a>
             </div>
         </td>
+    </tr>
+    <tr>
+        <th valign="center" width="33%">
+            <div align="center">
+                <video controls src="images/explosion-magic.mp4"></video>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://jaivrat12.github.io/misc-features-webpage/" target="_blank">
+                    <img src="images/misc-features.png" border="2" />
+                </a>
+            </div>
+        </th>
+    </tr>
+    <tr>
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://play.unity.com/mg/other/explosion-magic" target="_blank">

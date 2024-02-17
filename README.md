@@ -67,27 +67,27 @@
 
 <br />
 
+<p align="center">
+    <img src="images/octo-anim.gif" />
+</p>
+
 <h2 align="center">🤩 I L💜VE to Create Things!!</h2>
 <br />
 <table>
     <tr>
-        <th valign="center" width="33%">
+        <th valign="center" width="50%">
             <div align="center">
-                <a href="https://clannad.jaivratdas.in/" target="_blank">
-                    <img src="images/clannad.gif" border="2" />
-                </a>
+                <img src="images/clannad.gif" />
             </div>
         </th>
-        <th valign="center" width="33%">
+        <th valign="center" width="50%">
             <div align="center">
-                <a href="https://jaivratdas.in/" target="_blank">
-                    <img src="images/portfolio.png" border="2" />
-                </a>
+                <img src="images/portfolio.png" />
             </div>
         </th>
     </tr>
     <tr>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <div align="center">
                 <a href="https://clannad.jaivratdas.in/" target="_blank">
                     <b>Family Tree Maker (Next.js + MERN)</b>
@@ -98,7 +98,7 @@
                 </a>
             </div>
         </td>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <div align="center">
                 <a href="https://jaivratdas.in/" target="_blank">
                     <b>My Portfolio Website (Next.js)</b>
@@ -111,23 +111,19 @@
         </td>
     </tr>
     <tr>
-        <th valign="center" width="33%">
+        <th valign="center" width="50%">
             <div align="center">
-                <a href="https://weather-app-elite.vercel.app/" target="_blank">
-                    <img src="images/weather-app.png" border="2" />
-                </a>
+                <img src="images/weather-app.png" />
             </div>
         </th>
-        <th valign="center" width="33%">
+        <th valign="center" width="50%">
             <div align="center">
-                <a href="https://github-clone.jaivratdas.in/" target="_blank">
-                    <img src="images/github-clone.png" border="2" />
-                </a>
+                <img src="images/github-clone.png" />
             </div>
         </th>
     </tr>
     <tr>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <div align="center">
                 <a href="https://weather-app-elite.vercel.app/" target="_blank">
                     <b>Weather App (React.js)</b>
@@ -138,7 +134,7 @@
                 </a>
             </div>
         </td>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <div align="center">
                 <a href="https://github-clone.jaivratdas.in/" target="_blank">
                     <b>GitHub Clone (Vanilla JS)</b>
@@ -151,21 +147,19 @@
         </td>
     </tr>
     <tr>
-        <th valign="center" width="33%">
+        <th valign="center" width="50%">
             <div align="center">
-                <video controls src="images/explosion-magic.mp4"></video>
+                <img src="images/explosion-magic.gif" />
             </div>
         </th>
-        <th valign="center" width="33%">
+        <th valign="center" width="50%">
             <div align="center">
-                <a href="https://jaivrat12.github.io/misc-features-webpage/" target="_blank">
-                    <img src="images/misc-features.png" border="2" />
-                </a>
+                <img src="images/misc-features.png" />
             </div>
         </th>
     </tr>
     <tr>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <div align="center">
                 <a href="https://play.unity.com/mg/other/explosion-magic" target="_blank">
                     <b>Explosion Magic (Unity3D)</b>
@@ -176,7 +170,7 @@
                 </a>
             </div>
         </td>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <div align="center">
                 <a href="https://jaivrat12.github.io/misc-features-webpage/" target="_blank">
                     <b>Misc Features (Vanilla JS)</b>

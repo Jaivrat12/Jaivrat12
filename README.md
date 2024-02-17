@@ -3,9 +3,8 @@
         <img src="images/grim-repo.png" class="profile-pic" width="100" title="I got this as a sticker in HacktoberFest2021 swags 🤩" />
     </a>
     <br />
-    🌐
-    <a href="https://jaivratdas.in/">
-        <b>jaivratdas.in</b>
+    <a href="https://jaivratdas.in/" target="_blank">
+        <img alt="jaivratdas.in (My Portfolio Website)" src="https://img.shields.io/badge/jaivratdas.in-7330dd?style=for-the-badge&logo=next.js&logoColor=white" />
     </a>
 </p>
 
@@ -26,11 +25,7 @@
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Jaivrat12&label=Profile_Views&color=22CCAA&style=flat-square" alt="Profile Views" align="right" />
 </p>
-<br />
-
----
-
-<br />
+<br /><br />
 
 ```json
 {
@@ -262,7 +257,7 @@
 
 <p align="right">
     <a href="https://jaivratdas.in/" target="_blank">
-        <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio Website-7330dd?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img alt="My Portfolio Website" src="https://img.shields.io/badge/jaivratdas.in-7330dd?style=for-the-badge&logo=next.js&logoColor=white" />
     </a>
     <a href="https://leetcode.com/jaivrat12/" target="_blank">
         <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" />

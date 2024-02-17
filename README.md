@@ -262,7 +262,7 @@
 
 <p align="right">
     <a href="https://jaivratdas.in/" target="_blank">
-        <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio Website-5D3FD3?style=for-the-badge&logoColor=white" />
+        <img alt="My Portfolio Website" src="https://img.shields.io/badge/My Portfolio Website-7330dd?style=for-the-badge&logo=next.js&logoColor=white" />
     </a>
     <a href="https://leetcode.com/jaivrat12/" target="_blank">
         <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" />

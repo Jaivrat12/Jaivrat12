@@ -113,7 +113,7 @@
     <tr>
         <th valign="center" width="50%">
             <div align="center">
-                <img src="images/weather-app.png" />
+                <img src="images/weather-app.gif" />
             </div>
         </th>
         <th valign="center" width="50%">
@@ -125,7 +125,7 @@
     <tr>
         <td valign="top" width="50%">
             <div align="center">
-                <a href="https://weather-app-elite.vercel.app/" target="_blank">
+                <a href="https://weather.jaivratdas.in/" target="_blank">
                     <b>Weather App (React.js)</b>
                 </a>
                 <br />
@@ -154,7 +154,7 @@
         </th>
         <th valign="center" width="50%">
             <div align="center">
-                <img src="images/misc-features.png" />
+                <img src="images/misc-features.gif" />
             </div>
         </th>
     </tr>

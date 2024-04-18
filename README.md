@@ -82,7 +82,7 @@
         </th>
         <th valign="center" width="50%">
             <div align="center">
-                <img src="images/portfolio.png" />
+                <img src="images/autobot.jpeg" />
             </div>
         </th>
     </tr>
@@ -100,11 +100,11 @@
         </td>
         <td valign="top" width="50%">
             <div align="center">
-                <a href="https://jaivratdas.in/" target="_blank">
-                    <b>My Portfolio Website (Next.js)</b>
+                <a href="https://github.com/Jaivrat12/autobot/releases/tag/latest" target="_blank">
+                    <b>Web Automation Toolkit (Chrome Extension)</b>
                 </a>
                 <br />
-                <a href="https://github.com/Jaivrat12/jaivrat-das" target="_blank">
+                <a href="https://github.com/Jaivrat12/autobot" target="_blank">
                     View Repo
                 </a>
             </div>
@@ -113,16 +113,27 @@
     <tr>
         <th valign="center" width="50%">
             <div align="center">
-                <img src="images/weather-app.gif" />
+                <img src="images/portfolio.png" />
             </div>
         </th>
         <th valign="center" width="50%">
             <div align="center">
-                <img src="images/github-clone.png" />
+                <img src="images/weather-app.gif" />
             </div>
         </th>
     </tr>
     <tr>
+        <td valign="top" width="50%">
+            <div align="center">
+                <a href="https://jaivratdas.in/" target="_blank">
+                    <b>My Portfolio (Next.js + TypeScript)</b>
+                </a>
+                <br />
+                <a href="https://github.com/Jaivrat12/jaivrat-das" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
         <td valign="top" width="50%">
             <div align="center">
                 <a href="https://weather.jaivratdas.in/" target="_blank">
@@ -134,6 +145,20 @@
                 </a>
             </div>
         </td>
+    </tr>
+    <tr>
+        <th valign="center" width="50%">
+            <div align="center">
+                <img src="images/github-clone.png" />
+            </div>
+        </th>
+        <th valign="center" width="50%">
+            <div align="center">
+                <img src="images/explosion-magic.gif" />
+            </div>
+        </th>
+    </tr>
+    <tr>
         <td valign="top" width="50%">
             <div align="center">
                 <a href="https://github-clone.jaivratdas.in/" target="_blank">
@@ -145,20 +170,6 @@
                 </a>
             </div>
         </td>
-    </tr>
-    <tr>
-        <th valign="center" width="50%">
-            <div align="center">
-                <img src="images/explosion-magic.gif" />
-            </div>
-        </th>
-        <th valign="center" width="50%">
-            <div align="center">
-                <img src="images/misc-features.gif" />
-            </div>
-        </th>
-    </tr>
-    <tr>
         <td valign="top" width="50%">
             <div align="center">
                 <a href="https://play.unity.com/mg/other/explosion-magic" target="_blank">
@@ -166,17 +177,6 @@
                 </a>
                 <br />
                 <a href="https://github.com/Jaivrat12/unity-explosion-magic" target="_blank">
-                    View Repo
-                </a>
-            </div>
-        </td>
-        <td valign="top" width="50%">
-            <div align="center">
-                <a href="https://jaivrat12.github.io/misc-features-webpage/" target="_blank">
-                    <b>Misc Features (Vanilla JS)</b>
-                </a>
-                <br />
-                <a href="https://github.com/Jaivrat12/misc-features-webpage" target="_blank">
                     View Repo
                 </a>
             </div>

@@ -100,7 +100,7 @@
         </td>
         <td valign="top" width="50%">
             <div align="center">
-                <a href="https://github.com/Jaivrat12/autobot/releases/tag/latest" target="_blank">
+                <a href="http://autobot.jaivratdas.in/" target="_blank">
                     <b>Web Automation Toolkit (Chrome Extension)</b>
                 </a>
                 <br />
